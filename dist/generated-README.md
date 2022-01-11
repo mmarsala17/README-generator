@@ -6,13 +6,17 @@
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
-  * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
+  * [Questions](#questions)
 
   ## Description
 
-  test desc
+ test
+
+test
+
+test 
 
   ## Installation
 
@@ -20,16 +24,21 @@
 
   ## Usage
 
-  test usage instructions
+  test use instructions
 
-  ## License
-
-  Mozilla Public License 2.0
 
   ## Contributing
 
-  test contributing guidelines
+ No Contributions needed at this time.
 
   ## Tests
 
-  test testing instructions
+  test testing instruction
+
+ ## Questions
+
+  For questions please contact me using the following links:
+
+  [GitHub](https://github.com/mmarsala17)
+
+  [Email: mmarsala76@gmail.com](mailto:mmarsala76@gmail.com) 
